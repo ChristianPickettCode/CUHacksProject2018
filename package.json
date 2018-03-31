@@ -1,0 +1,19 @@
+{
+  "name": "cuhacksproject2018",
+  "version": "1.0.0",
+  "description": "Chrome Extension + NLP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianPickettCode/CUHacksProject2018.git"
+  },
+  "author": "Christian Pickett & Guillaume Vialle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianPickettCode/CUHacksProject2018/issues"
+  },
+  "homepage": "https://github.com/ChristianPickettCode/CUHacksProject2018#readme"
+}
